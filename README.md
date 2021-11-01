@@ -5,7 +5,7 @@ Besides this, I work on my actuarial education (Aktuar DAV).
 
 My academical background lies in algebraic geometry. After my studies in mathematics and computer science, 
 I started doing my PhD, specializing on combinatorial methods for algebraic varieties with torus action. 
-In May 2020 I defended my thesis under the supervision of Prof. Dr. Jürgen Hausen.
+In May 2020, I defended my thesis under the supervision of Prof. Dr. Jürgen Hausen.
 
 <!---
 - 👋 Hi, I’m @christoff-wrobel
