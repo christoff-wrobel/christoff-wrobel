@@ -1,7 +1,9 @@
 ### Hi there 👋!
 My name is Christoff Wrobel and I am a mathematician working in the german life insurance business.
-More specificly, I am working on migration projects, focussing on actuarial and technical questions regarding data structures used for the transformation process of the actuarial relevant data.
+
+<!-- More specificly, I am working on migration projects, focussing on actuarial and technical questions regarding data structures used for the transformation process of the actuarial relevant data.
 Besides this, I work on my actuarial education (Aktuar DAV).
+-->
 
 My academical background lies in algebraic geometry. After my studies in mathematics and computer science, 
 I started doing my Ph.D., specializing on combinatorial methods for algebraic varieties with torus action. 
